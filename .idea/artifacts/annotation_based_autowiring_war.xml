@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="annotation-based-autowiring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="demoSpring.war">
+      <element id="artifact" artifact-name="annotation-based-autowiring:war exploded" />
+    </root>
+  </artifact>
+</component>
